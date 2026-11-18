@@ -18,6 +18,15 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "0.4.1",
+          "buildVersion": "5",
+          "date": "2026-11-18T03:57:09+01:00",
+          "localizedDescription": "Обновление 0.4.1: проверка новых версий в приложении, баннер «Доступно обновление» и кнопка «Добавить источник в SideStore». Тестовая локация «Реальность» как в 0.4.",
+          "downloadURL": "https://github.com/akriv777-png/sanya-releases/releases/download/v0.4.1-5/Sanya-v0.4.1-5-unsigned.ipa",
+          "size": 8655222,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "0.4.0",
           "buildVersion": "4",
           "date": "2026-11-18T03:00:00+01:00",
