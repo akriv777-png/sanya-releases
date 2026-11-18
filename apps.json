@@ -1,0 +1,33 @@
+{
+  "name": "Саня (Nezich)",
+  "identifier": "com.nezich.sanya.source",
+  "subtitle": "Личный лаунчер Егора",
+  "description": "Публичные сборки приложения «Саня» для установки через SideStore.",
+  "iconURL": "https://raw.githubusercontent.com/akriv777-png/sanya-releases/main/icon.png",
+  "website": "https://github.com/akriv777-png/sanya-releases",
+  "sourceURL": "https://raw.githubusercontent.com/akriv777-png/sanya-releases/main/apps.json",
+  "apps": [
+    {
+      "name": "Sanya",
+      "bundleIdentifier": "com.nezich.sanya",
+      "developerName": "Nezich",
+      "subtitle": "Лаунчер Саня",
+      "localizedDescription": "Лаунчер Саня: ассистент, смены, плеер, таймеры, питомец и игровой модуль «Реальность».",
+      "iconURL": "https://raw.githubusercontent.com/akriv777-png/sanya-releases/main/icon.png",
+      "tintColor": "9BE1CB",
+      "category": "utilities",
+      "versions": [
+        {
+          "version": "0.4.0",
+          "buildVersion": "4",
+          "date": "2026-11-18T03:00:00+01:00",
+          "localizedDescription": "Тестовая сборка 0.4: ночная площадь «Реальности» в ливень, ИИ-NPC Лин и Алекс, дрон Оракула, четыре заклинания, шкалы Голод, Энергия, Мана и Розыск. Бар и квартира пока закрыты.",
+          "downloadURL": "https://github.com/akriv777-png/sanya-releases/releases/download/v0.4.0-4/Sanya-v0.4-test-unsigned.ipa",
+          "size": 8613586,
+          "minOSVersion": "17.0"
+        }
+      ]
+    }
+  ],
+  "news": []
+}
