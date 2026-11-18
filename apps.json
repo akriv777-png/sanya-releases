@@ -18,6 +18,15 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "0.4.2",
+          "buildVersion": "6",
+          "date": "2026-11-18T05:33:48+01:00",
+          "localizedDescription": "Мама Лин отвечает живее и не повторяется; заклинания светятся ярче; починен обрезанный текст в окне Компьютер",
+          "downloadURL": "https://github.com/akriv777-png/sanya-releases/releases/download/v0.4.2-6/Sanya-v0.4.2-6-unsigned.ipa",
+          "size": 8665132,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "0.4.1",
           "buildVersion": "5",
           "date": "2026-11-18T03:57:09+01:00",
